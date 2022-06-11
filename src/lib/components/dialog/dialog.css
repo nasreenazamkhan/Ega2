@@ -1,0 +1,29 @@
+.MuiDialog-paperWidthSm {
+    /* max-width: 400px;
+    min-width: 400px; */
+    /* max-height: calc(100%-400px) !important; */
+}
+
+.dialog-title {
+        background-color: #0E1B3D ;
+        color: #FFF;
+        text-align:center;
+        font-family: 'Dubai Light';
+        font-weight: 600;
+        font-size: 16px;
+}
+
+
+.MuiDialogContent-root {
+    font-family: 'Dubai Light';
+    font-weight: 600;
+    font-size: 16px;
+    text-align:center;
+}
+
+.icon-button {
+    position: absolute !important;
+    right:0px;
+    top:-4px;
+    color:#9e9e9e !important;
+}

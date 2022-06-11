@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34.539" height="38.148" viewBox="0 0 34.539 38.148">
+  <g id="Receipt_download" data-name="Receipt download" transform="translate(0)">
+    <path id="Path_2226" data-name="Path 2226" d="M17.916,6.047,17,0H3.616A3.629,3.629,0,0,0,0,3.658V28.974A3.6,3.6,0,0,0,3.616,32.6h12.7l9.149-13.853V8.867Zm0,0" fill="#5069ab"/>
+    <path id="Path_2227" data-name="Path 2227" d="M285.277.141,293.713,9H288.1a2.818,2.818,0,0,1-2.82-2.82Zm0,0" transform="translate(-268.273 -0.132)" fill="#00efd1"/>
+    <g id="Group_418" data-name="Group 418" transform="translate(5.043 14.848)">
+      <path id="Path_2228" data-name="Path 2228" d="M96.255,318.676H85.439a.829.829,0,1,0,0,1.659H96.247a.83.83,0,0,0,.008-1.659Zm0,0" transform="translate(-84.609 -314.529)" fill="#fff"/>
+      <path id="Path_2229" data-name="Path 2229" d="M85.439,250.757h8.4a.829.829,0,1,0,0-1.659h-8.4a.829.829,0,1,0,0,1.659Zm0,0" transform="translate(-84.609 -249.098)" fill="#fff"/>
+      <path id="Path_2230" data-name="Path 2230" d="M93.518,389.648H85.439a.829.829,0,1,0,0,1.659h8.079a.829.829,0,1,0,0-1.659Zm0,0" transform="translate(-84.609 -381.27)" fill="#fff"/>
+    </g>
+    <path id="Path_2231" data-name="Path 2231" d="M236.658,285.109a10.546,10.546,0,1,1-1.476-.108,12.517,12.517,0,0,1,1.476.108Zm0,0" transform="translate(-211.218 -268.013)" fill="#17c1ff"/>
+    <path id="Path_2232" data-name="Path 2232" d="M316.4,361.626l-3.409,3.674v-9.058a.829.829,0,1,0-1.659,0V365.3l-3.434-3.674a.837.837,0,0,0-1.178-.042.827.827,0,0,0-.042,1.17l4.853,5.217a.823.823,0,0,0,1.211,0l4.852-5.217a.826.826,0,0,0-.033-1.17A.816.816,0,0,0,316.4,361.626Zm0,0" transform="translate(-288.188 -334.229)" fill="#fff"/>
+  </g>
+</svg>

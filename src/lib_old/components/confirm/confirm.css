@@ -1,0 +1,21 @@
+.confirm-header {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.confirm-icon{
+    color: green;
+    font-size: 3rem;
+}
+
+
+.confirm-message {
+    font-size: 1.5rem;
+    color: green;
+}
+
+.confirm-content {
+    padding:15px;
+}

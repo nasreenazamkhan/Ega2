@@ -1,0 +1,32 @@
+.active.miscellaneous, .active.booking, .active.containerList {
+    background-color: #003754;
+    color: #FFFFFF;
+}
+
+.inactive {
+    right: -15px;
+    bottom: -45px;
+    width: 75px;
+    height: 25px;
+    background-color: #ffffff;
+    color: #003754;
+    text-align: center;
+    position: relative;
+    padding-top: -10px;
+    border-radius: 0px 0px 25px 0px;
+    cursor: pointer;
+}
+
+.empty_in {
+    right: -15px;
+    bottom: -45px;
+    width: 75px;
+    height: 25px;
+    background-color: #ffffff;
+    color: #003754;
+    text-align: center;
+    position: relative;
+    padding-top: -10px;
+    border-radius: 0px 0px 0px 0px;
+    cursor: pointer;
+}

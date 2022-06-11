@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="6" height="6" viewBox="0 0 6 6">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 30 30">
+      <image width="30" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDYuMC1jMDAyIDc5LjE2NDQ2MCwgMjAyMC8wNS8xMi0xNjowNDoxNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIDIxLjIgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjg5RUFCNTYzRkNFNTExRUE4QUYxRTZBQjZFNEI1REVCIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjg5RUFCNTY0RkNFNTExRUE4QUYxRTZBQjZFNEI1REVCIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6ODlFQUI1NjFGQ0U1MTFFQThBRjFFNkFCNkU0QjVERUIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6ODlFQUI1NjJGQ0U1MTFFQThBRjFFNkFCNkU0QjVERUIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7Zy8y/AAAB1ElEQVR42rSWTyhEQRzH7VKIUivUloOLciBOe6DdtCXJQTk4bDZxwlUOji4ODm7cljjYWi5bSP6UdVKKPeDiRIq0JFqW1vhOzeF57cz7vffm/epzmN/8+b43v9/8ZnyMsTINFgGjoB5kwDIoKGdwYZdMgwL7b0lQrprnVrQNFFlpC6nm+l1ucRTI1mhWTXQrXFT03XgpvA/yJfwr4Mrr5IqCDHgAWTBrlVgcn6bjxK0KfINfyuAKF0ItoB0EwSs4BF/k2Q62tg/sgbzp+NyDDuo6dgRrQIKpLUFdj5rVDeAIxMAqyEnGBak7TYlxABwI8S5wDc5FXTbbna4YV4Jj8A5ahY/H8Uey1SO6YjwlFgwbfEsS0RwI6BLuBD2Gdh14kgiv2TkdVjG+NLWHQKNk7IadImC3Vk9I/Lfg1CthXqW6JX2bolx6IjwuGc+vxqTtgktMBp5Uj5KkOnFyq1H/eBA0SfrWndwwVOG4xP8G0ob2DJjXJczfTmFJ3y54NnzcInjRFeO44jbqF2MGRDsN/LpiHLG4ZMbAjnjIx6gvEMofnzFr2wa1urO6WtHHi8YcGAYfurN6q4TvE6RACCw4OU6UVyaP4yToFVXqQsQ06+ZJ+ifAAFKmYYKJQseMAAAAAElFTkSuQmCC"/>
+    </pattern>
+  </defs>
+  <g id="Info_icon" data-name="Info icon" transform="translate(-1236 -592)">
+    <g id="Rectangle_77" data-name="Rectangle 77" transform="translate(1236 592)" fill="#29557b" stroke="#29557b" stroke-width="1">
+      <rect width="6" height="6" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="5" height="5" rx="2.5" fill="none"/>
+    </g>
+    <rect id="letter_i_PNG52" width="4" height="4" transform="translate(1237 593)" fill="url(#pattern)"/>
+  </g>
+</svg>

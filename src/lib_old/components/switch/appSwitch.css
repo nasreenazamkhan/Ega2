@@ -1,0 +1,7 @@
+.MuiSwitch-colorSecondary.Mui-checked + .MuiSwitch-track {
+    background-color:green !important;
+}
+
+.MuiSwitch-colorSecondary.Mui-checked {
+    color: green !important;
+}

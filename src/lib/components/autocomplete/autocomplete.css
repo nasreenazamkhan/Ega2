@@ -1,0 +1,11 @@
+.autoSelect-txt-div{
+    position: relative;
+}
+
+.auto-search-loading-icon{
+    position: absolute;
+    right:20px;
+    bottom:10px;
+    width:26px !important;
+    height:26px !important;
+}

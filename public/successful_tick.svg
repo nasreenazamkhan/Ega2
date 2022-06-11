@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="228" height="135" viewBox="0 0 228 135">
+  <g id="Successful_tick" data-name="Successful tick" transform="translate(-584 -530)">
+    <ellipse id="Ellipse_427" data-name="Ellipse 427" cx="114" cy="8.5" rx="114" ry="8.5" transform="translate(584 648)" fill="#e9e9e9"/>
+    <g id="checked_1_" data-name="checked (1)" transform="translate(647 530)">
+      <circle id="Ellipse_1183" data-name="Ellipse 1183" cx="50.105" cy="50.105" r="50.105" transform="translate(0 0)" fill="#32ba7c"/>
+      <path id="Path_2612" data-name="Path 2612" d="M188.8,194.676l25.764,25.764a50.072,50.072,0,0,0,37.144-48.366v-1.423L231.476,152Z" transform="translate(-151.498 -121.969)" fill="#0aa06e"/>
+      <g id="Group_16435" data-name="Group 16435" transform="translate(16.833 24.736)">
+        <path id="Path_2613" data-name="Path 2613" d="M119.736,221.491a5.918,5.918,0,0,1,0,8.219l-4.584,4.584a5.918,5.918,0,0,1-8.219,0L86.86,214.062a5.918,5.918,0,0,1,0-8.219l4.584-4.584a5.918,5.918,0,0,1,8.219,0Z" transform="translate(-85.2 -184.901)" fill="#fff"/>
+        <path id="Path_2614" data-name="Path 2614" d="M200.833,126.86a5.918,5.918,0,0,1,8.219,0l4.584,4.584a5.918,5.918,0,0,1,0,8.219l-34.773,34.615a5.918,5.918,0,0,1-8.219,0l-4.584-4.584a5.918,5.918,0,0,1,0-8.219Z" transform="translate(-148.752 -125.2)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

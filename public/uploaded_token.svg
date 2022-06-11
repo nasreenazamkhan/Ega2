@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="174" height="173" viewBox="0 0 174 173">
+  <defs>
+    <filter id="Ellipse_165" x="0" y="0" width="174" height="173" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_166" x="29.5" y="27.5" width="126" height="126" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Uploaded_Token" data-name="Uploaded Token" transform="translate(-596.5 -311.5)">
+    <g transform="matrix(1, 0, 0, 1, 596.5, 311.5)" filter="url(#Ellipse_165)">
+      <ellipse id="Ellipse_165-2" data-name="Ellipse 165" cx="67.5" cy="67" rx="67.5" ry="67" transform="translate(18.5 17.5)" fill="#f5f5f5"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 596.5, 311.5)" filter="url(#Ellipse_166)">
+      <circle id="Ellipse_166-2" data-name="Ellipse 166" cx="54" cy="54" r="54" transform="translate(32.5 29.5)" fill="#fff"/>
+    </g>
+    <text id="UPLOADED_TOKEN-2" data-name="UPLOADED
+TOKEN" transform="translate(683 415)" fill="#0e1b3d" font-size="12" font-family="Dubai-Regular, Dubai"><tspan x="-27.42" y="0">UPLOADED</tspan><tspan font-size="8"><tspan x="-12.231" y="13">TOKEN</tspan></tspan></text>
+    <g id="tick_1_" data-name="tick (1)" transform="matrix(0.996, -0.087, 0.087, 0.996, 549.818, 236.509)">
+      <path id="Path_2619" data-name="Path 2619" d="M142.845,137.449l-25.129,31.811-9.771-10.606a1.905,1.905,0,1,0-2.692,2.7L116.342,173.3a1.874,1.874,0,0,0,1.355.554,1.848,1.848,0,0,0,1.318-.536l26.916-33.959a1.918,1.918,0,0,0,.055-2.7c-.723-.761-2.374.071-3.14.789Zm1.028-.974" transform="translate(0 0)" fill="#63bb7a"/>
+    </g>
+  </g>
+</svg>

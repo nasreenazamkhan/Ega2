@@ -1,0 +1,19 @@
+.myCardB{
+    flex-grow: 1;
+    padding-bottom:5px;
+    position:relative;
+    z-index:2 ;
+}
+
+.booking-boxOnCard {
+    left:25px;
+   width:35px;
+   height:35px;
+    /* font-size: 35px; */
+    /* font-weight: bold; */
+    background-color:#003754;
+    color:#FFFFFF;
+    text-align:center;
+    position:relative;
+    /* padding-top:-10px; */
+}

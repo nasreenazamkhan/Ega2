@@ -1,0 +1,18 @@
+.exp-panel{
+    margin-bottom: 0px !important;
+    margin-top:0px !important;
+    box-shadow: none !important;
+}
+.panel-header-text{
+    font-size: 22px;
+    padding-bottom: 10px;
+}
+.panel-header .Mui-expanded {
+    border-bottom: solid;
+    border-bottom-width: thin;
+}
+
+.panel-details {
+    padding:10px;
+    width: 100%;
+}

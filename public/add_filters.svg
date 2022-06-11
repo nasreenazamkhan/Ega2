@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.582" height="16" viewBox="0 0 17.582 16">
+  <g id="Add_filters" data-name="Add filters" transform="translate(0 -0.4)">
+    <line id="Line_43" data-name="Line 43" x2="17.582" transform="translate(0 2.461)" fill="none" stroke="#0e1b3d" stroke-width="2"/>
+    <line id="Line_44" data-name="Line 44" x2="17.582" transform="translate(0 8.088)" fill="none" stroke="#0e1b3d" stroke-width="2"/>
+    <path id="Path_2165" data-name="Path 2165" d="M0,0H17.582" transform="translate(0 13.714)" fill="#0568ae" stroke="#0e1b3d" stroke-width="2"/>
+    <g id="Ellipse_31" data-name="Ellipse 31" transform="translate(3.5 0.4)" fill="#0568ae" stroke="#fff" stroke-width="1">
+      <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+      <circle cx="2.5" cy="2.5" r="2" fill="none"/>
+    </g>
+    <g id="Ellipse_32" data-name="Ellipse 32" transform="translate(8.5 6.4)" fill="#0568ae" stroke="#fff" stroke-width="1">
+      <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+      <circle cx="2.5" cy="2.5" r="2" fill="none"/>
+    </g>
+    <g id="Ellipse_33" data-name="Ellipse 33" transform="translate(3.5 11.4)" fill="#0568ae" stroke="#fff" stroke-width="1">
+      <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+      <circle cx="2.5" cy="2.5" r="2" fill="none"/>
+    </g>
+  </g>
+</svg>

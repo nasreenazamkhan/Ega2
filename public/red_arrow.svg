@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="94" height="94" viewBox="0 0 94 94">
+  <defs>
+    <filter id="Ellipse_187" x="0" y="0" width="94" height="94" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="ARROW_WITH_NO_BG" data-name="ARROW WITH NO BG" transform="translate(-812 -957)">
+    <g transform="matrix(1, 0, 0, 1, 812, 957)" filter="url(#Ellipse_187)">
+      <circle id="Ellipse_187-2" data-name="Ellipse 187" cx="38" cy="38" r="38" transform="translate(9 5)" fill="#fff"/>
+    </g>
+    <g id="LIGHT_ARROW" data-name="LIGHT ARROW">
+      <line id="Line_338" data-name="Line 338" x2="15" y2="14.2" transform="translate(855.5 984.5)" fill="none" stroke="#c62926" stroke-width="3" stroke-linecap="round"/>
+      <line id="Line_339" data-name="Line 339" y1="15" x2="15" transform="translate(855.5 998.5)" fill="none" stroke="#c62926" stroke-width="3" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>

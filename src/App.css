@@ -1,0 +1,23 @@
+.row {
+  margin-bottom: 20px;
+}
+
+
+div .MuiGrid-container {
+  margin-bottom: 20px !important;
+}
+
+.icon-hover{
+  cursor: pointer;
+}
+
+.tooltip .tooltip-inner{
+  max-width: 800px;
+  background-color: #0E1B3DE8;
+  opacity: 1;
+}
+
+.tooltip .arrow{
+  color: #0E1B3DE8;
+  opacity: 1;
+}

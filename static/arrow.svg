@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87" height="87" viewBox="0 0 87 87">
+  <defs>
+    <filter id="Ellipse_181" x="0" y="0" width="87" height="87" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Angle_right_with_BG" data-name="Angle right with BG" transform="translate(33.229 21.8)">
+    <g transform="matrix(1, 0, 0, 1, -33.23, -21.8)" filter="url(#Ellipse_181)">
+      <circle id="Ellipse_181-2" data-name="Ellipse 181" cx="34.5" cy="34.5" r="34.5" transform="translate(9 5)" fill="rgba(14,27,60,0.79)"/>
+    </g>
+    <path id="Path_450" data-name="Path 450" d="M53.081,0,48.907,4.174,62.433,17.7,48.907,31.226,53.081,35.4l17.7-17.7Z" transform="translate(-48.907)" fill="#fff"/>
+  </g>
+</svg>

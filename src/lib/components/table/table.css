@@ -1,0 +1,44 @@
+.table-sort-icon svg{
+    color: #ffff !important;
+}
+
+.table-search {
+    margin-bottom: 5px;
+}
+
+.main-table-div-active{
+    background-color: red;
+}
+
+.main-table-div{
+    position: relative;
+}
+
+.dtable-loader{
+    position: absolute;
+    left:40%;
+    top:40%;
+    z-index: 200;
+    
+}
+
+.dtable-overlay{
+    position: absolute;
+    left:0;
+    top:0;
+    bottom:0;
+    right: 0;
+    background-color:black;
+    z-index: 100;
+    opacity: 0.4;
+}
+
+ .scroll {
+
+    height: 50px;     
+    overflow-y: auto;    
+    overflow-x: hidden;
+ 
+ } 
+
+ 

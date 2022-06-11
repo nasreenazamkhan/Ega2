@@ -1,0 +1,22 @@
+    .label-div{
+        height: 30px;
+        position: relative;
+    }
+
+    .label-txt{
+        margin-top:10px;
+        display: inline-block;
+    }
+    .label-txt-hyperlink{
+        cursor: pointer;
+        text-decoration: underline;
+    }
+
+   .label-label-text{
+    color: #000;
+    font-weight:500;
+    }
+
+    .label-download{
+        cursor: pointer;
+    }

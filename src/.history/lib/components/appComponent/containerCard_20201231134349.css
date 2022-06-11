@@ -1,0 +1,170 @@
+.myCard {
+    flex-grow: 1;
+    border-radius: 25px;
+    border: 1px solid #eeeeff;
+    margin-bottom: 15px;
+    position: relative;
+    z-index: 5;
+}
+
+.boxOnCard {
+    left: 15px;
+    width: 35px;
+    height: 35px;
+    top: -15px;
+    background-color: #003754;
+    color: #FFFFFF;
+    text-align: center;
+    position: relative;
+    /* padding-top:-10px; */
+    z-index: 1;
+}
+
+.settleBox {
+    right: -10px;
+    width: 50px;
+    height: 25px;
+    background-color: #008000;
+    color: #FFFFFF;
+    text-align: center;
+    position: relative;
+    padding-top: -10px;
+    border-radius: 7px 0px 0px 7px;
+}
+
+.active.fcl_out, .active.empty_in {
+    background-color: #003754;
+    color: #FFFFFF;
+}
+
+.fcl_out {
+    right: -15px;
+    bottom: -45px;
+    width: 75px;
+    height: 25px;
+    background-color: #ffffff;
+    color: #003754;
+    text-align: center;
+    position: relative;
+    padding-top: -10px;
+    border-radius: 0px 0px 25px 0px;
+    cursor: pointer;
+}
+
+.empty_in {
+    right: -15px;
+    bottom: -45px;
+    width: 75px;
+    height: 25px;
+    background-color: #ffffff;
+    color: #003754;
+    text-align: center;
+    position: relative;
+    padding-top: -10px;
+    border-radius: 0px 0px 0px 0px;
+    cursor: pointer;
+}
+
+.boxOnDialog {
+    left: -20px;
+    top: -20px;
+    width: 30px;
+    height: 30px;
+    background-color: #003754;
+    color: #FFFFFF;
+    text-align: center;
+    position: relative;
+    /* padding-top: 0px; */
+    /* z-index: 5; */
+}
+
+.dot {
+    height: 5px;
+    width: 5px;
+    background-color: #000;
+    /* border-radius: 50%; */
+    font-size: 75px;
+    /* display: inline-block; */
+}
+
+/* .material-icons .MuiIcon-root .svg-blue{
+    width: 36;
+    height: 42;
+    font-size: 1.5rem;
+    flex-shrink: 0;
+    user-select: none;
+} */
+
+/* svg.MuiSvgIcon-root{
+    width: 36;
+    height: 42; 
+} */
+
+.MuiIcon-root {
+    overflow: inherit;
+}
+
+.svg-doc {
+    width: 36;
+    height: 42;
+    font-size: 1.0rem;
+    overflow: inherit;
+    color: red;
+    cursor: pointer;
+}
+
+.svg-red {
+    width: 36;
+    height: 42;
+    color: red;
+    cursor: pointer;
+}
+
+.svg-green {
+    width: 36;
+    height: 42;
+    color: green !important;
+    cursor: pointer;
+}
+
+.svg-blue {
+    width: 36;
+    height: 42;
+    color: #003754 !important;
+    cursor: pointer;
+}
+
+.mile-red {
+    color: red;
+}
+
+.mile-green {
+    color: green;
+}
+
+.mile-orange {
+    color: #ff9e40;
+}
+
+.mile-purple {
+    color: #af52bf
+}
+
+.mile-font {
+    font-size: 15px;
+    text-transform: capitalize;
+}
+
+.mile-dot {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.mile-cursur {
+    cursor: pointer;
+}
+
+.mile-cursur:hover {
+    cursor: pointer;
+    color: #003754;
+}

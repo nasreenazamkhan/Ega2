@@ -1,0 +1,90 @@
+import React,{useState} from "react";
+import { withStyles } from "@material-ui/core/styles";
+import Dialog from "@material-ui/core/Dialog";
+import MuiDialogTitle from "@material-ui/core/DialogTitle";
+import MuiDialogContent from "@material-ui/core/DialogContent";
+import IconButton from "@material-ui/core/IconButton";
+import CloseIcon from "@material-ui/icons/Close";
+import Typography from "@material-ui/core/Typography";
+import Link from '@material-ui/core/Link';
+import { useHistory } from "react-router-dom";
+
+
+const styles = (theme) => ({
+
+    root: {
+        margin: 0,
+        padding: theme.spacing(2),
+        
+            
+      },
+
+  closeButton: {
+    position: "absolute",
+    right: theme.spacing(1),
+    top: theme.spacing(1),
+    color: "red"
+    },
+   
+});
+
+
+const DialogTitle = withStyles(styles)((props) => {
+  const { children, classes, onClose, ...other } = props;
+  return (
+    // <MuiDialogTitle disableTypography className={classes.root} {...other}>
+    //   <Typography variant="h6">{children}</Typography>
+     
+        <IconButton
+          aria-label="close"
+          className={classes.closeButton}
+          onClick={onClose}
+        >
+          <CloseIcon />
+        </IconButton>
+      ) 
+    // </MuiDialogTitle>
+ 
+});
+
+const DialogContent = withStyles(() => ({
+  root: {
+    textAlign:'center'
+   
+  }
+}))(MuiDialogContent);
+
+
+
+export default function JobConfirmationPopUp(props) {
+ 
+    const [open, setOpen] = React.useState(true);
+    let history = useHistory();
+   const[jobList,setJobList]= useState(props.jobList)
+    
+   const handleClose = () => {
+    props.onClose();
+  };
+
+
+  return (
+    <div>
+     
+      <Dialog 
+  
+        aria-labelledby="customized-dialog-title"
+        open={open}
+        onClose={handleClose}
+      >
+        <DialogTitle
+          id="customized-dialog-title"
+        
+        >Send For Token</DialogTitle>
+        <DialogContent>
+          {props.children}
+        </DialogContent>
+       
+      </Dialog>
+    </div>
+  );
+}

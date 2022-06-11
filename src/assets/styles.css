@@ -1,0 +1,63 @@
+@font-face {
+  font-family: "Dubai-Light";
+  src: url("/assets/fonts/Dubai-Light.ttf");
+  src: url("/assets/fonts/Dubai-Medium.ttf");
+  src: url("/assets/fonts/Dubai-Regular.ttf");
+  src: url("/assets/fonts/Dubai-Bold.ttf");
+}
+
+* {
+  /*font-family: "Dubai-Bold"; */
+}
+.red {
+  fill: #c62926;
+}
+.dotted {
+  width: 200px;
+  height: 300px;
+  padding: 16px;
+  flex-grow: 1;
+  font-size: 12px;
+  border-color: #c62926;
+  border-width: 1.5px;
+  border-style: dashed;
+}
+.fullWidth {
+  /* width: 100%;
+  height: 100%; */
+  fill: #c62926;
+}
+.fullRow {
+  width: 100%;
+}
+div.row {
+  text-align: center;
+}
+
+.thinBorder {
+  border: 1px solid #d8d8d8;
+}
+.zeroPadding {
+  padding: 0px !important;
+}
+.upperCase {
+  
+  font-size: 14px !important;
+ 
+}
+.redFontColor {
+  color: #c62926;
+}
+.centerPosition {
+  left:27%
+  
+}
+.rightAlign {
+  position: fixed;
+  right: 2px;
+  top: 10px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}

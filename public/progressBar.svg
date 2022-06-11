@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="206" height="156" viewBox="0 0 206 156">
+  <g id="Counter_blue" data-name="Counter blue" transform="translate(-274 -366)">
+    <g id="blue_round_icon" data-name="blue round icon" transform="translate(118.696 337.77)">
+      <g id="Ellipse_179" data-name="Ellipse 179" transform="translate(155.304 28.23)" fill="#fff" stroke="#58abff" stroke-width="10">
+        <circle cx="78" cy="78" r="78" stroke="none"/>
+        <circle cx="78" cy="78" r="73" fill="none"/>
+      </g>
+      <rect id="Rectangle_1685" data-name="Rectangle 1685" width="147" height="95" transform="translate(214.304 66.23)" fill="#fff"/>
+    </g>
+    <circle id="Ellipse_182" data-name="Ellipse 182" cx="9" cy="9" r="9" transform="translate(403 393)" fill="#58abff"/>
+    <circle id="Ellipse_183" data-name="Ellipse 183" cx="9" cy="9" r="9" transform="translate(392 487)" fill="#58abff"/>
+  </g>
+</svg>
